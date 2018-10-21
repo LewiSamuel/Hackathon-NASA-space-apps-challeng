@@ -1,0 +1,4 @@
+#Sun Oct 21 06:16:08 BRT 2018
+base.0=C\:\\Users\\Lewi Samuel\\Desktop\\integracao-google-maps\\Green-Light\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
